@@ -1,6 +1,4 @@
 
-
-
 package com.core;
 
 
@@ -21,5 +19,5 @@ public class JCurriculumVitae {
     public int returnTwo() {
         return 2;
     }
-} // End JCurriculumVitae class 
 
+} // End JCurriculumVitae class

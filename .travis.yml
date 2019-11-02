@@ -3,4 +3,4 @@ language: java
 
 # Version (dependencies)
 jdk:
-  - oraclejdk8
+  - oraclejdk9

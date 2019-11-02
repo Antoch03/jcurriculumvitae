@@ -17,5 +17,9 @@ public class JCurriculumVitae {
     public int returnOne() {
         return 1;
     }
+
+    public int returnTwo() {
+        return 2;
+    }
 } // End JCurriculumVitae class 
 

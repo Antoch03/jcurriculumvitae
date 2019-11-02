@@ -5,6 +5,9 @@ language: java
 jdk:
   - oraclejdk9
   
+#
+install: true 
+
 # Mave dependencies (required by Travis CI) 
 script: mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
 

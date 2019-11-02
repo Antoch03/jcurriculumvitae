@@ -1,0 +1,6 @@
+# Language
+language: java
+
+# Version (dependencies)
+jdk:
+  - oraclejdk8

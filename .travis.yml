@@ -6,7 +6,7 @@ jdk:
   - oraclejdk9
   
 # Mave dependencies (required by Travis CI) 
-script: mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
+script: ./mvnw install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
 
 # Buil project with maven
-script: mvn test -B
+script: ./mvnw test -B
